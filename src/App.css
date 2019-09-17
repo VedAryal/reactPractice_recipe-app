@@ -1,6 +1,6 @@
 .App {
   min-height: 100vh;
-  background-image: linear-gradient(to top, #faa5e2 0%, #bb86c2 100%);
+  background-image: linear-gradient(to top, #4c0f9c 0%, #3a1958 100%);
 }
 
 .search-form {
@@ -16,10 +16,10 @@
   padding: 10px;
 }
 .search-button {
-  background: lightcoral;
+  background: rgb(174, 197, 241);
   border: none;
   padding: 10px 20px;
-  color: white;
+  color: rgb(22, 24, 24);
 }
 .recipes {
   display: flex;
